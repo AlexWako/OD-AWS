@@ -1,2 +1,2 @@
 # OD-AWS
-Code used for Okayama Denim using Amazon Web Service
+This rep is a collection of scripts used in AWS Lambda to work with Okayama Denim's Shopify and Website.
